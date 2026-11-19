@@ -1,0 +1,10 @@
+####
+monkey
+hii
+hlo
+####
+buy
+morning
+night
+evening
+####
